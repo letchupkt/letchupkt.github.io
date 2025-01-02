@@ -51,6 +51,18 @@
 
 
   {
+    "name": "Wi-Fi Bruter",
+    "desc": "A python based software to perform dictionary attack on wifi.",
+    "image": "wifi-bruter",
+
+    "links": {
+      "view":"",
+      "code": "https://github.com/letchupkt/wifi-bruter"
+    }
+  },
+
+
+  {
     "name": "Bg Remover",
     "desc": "A Web Based Bg remover made using python .",
     "image": "bgremover",
