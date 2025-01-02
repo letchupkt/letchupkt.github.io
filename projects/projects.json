@@ -53,7 +53,7 @@
   {
     "name": "Wi-Fi Bruter",
     "desc": "A python based software to perform dictionary attack on wifi.",
-    "image": "wifi-bruter",
+    "image": "wifibruter",
 
     "links": {
       "view":"",
