@@ -1,0 +1,85 @@
+[
+    
+    {
+        "name": "R",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAyVBMVEVHcEywsbW4ubxagLmjo6nM0tk6cr3BxMigsceQn6+2zOMlY65Pfr0gYrLAwsUcYrV+hZTCxcfO0dM+bascYrQ0bbShpKqOk56oqK3Gycu6vMC/wcRAcLK0trqztLhuhqmmpqx1gZSamqEfZbscYLGwsrYUXbgWYbeop62ZmqBMdKe2uLxFeL/W6vgkaL2AiZx5iaeAh5eZmJ5pj8NBca0ybLkfY7YhZrnCxMckaL2+wMO5u74lasDGyMscYbIYXa2ztLirrLFhfaNIVmCdAAAANnRSTlMAXzBh/RnKBg0lHmW3wqXYjGFNKI5Of/2yv9nu+0aSj+GtZXjx6BmmyvjZ7ckh88BI78lzskC7P2EDAAABZklEQVQokaXS2XaCMBAGYIIg+ya7yGLdtcWlbUCton3/h+oEQyv20rmBw3f+STKBYZ4ukY17loViVv5HvKWH0eFwPF4mQRK3SLDCsixru1yu1yxg72L66XSzI7Erx2UvvxZSW+keQsgLOI5bUBXrXBnpf73Y3YKqVef6iBE2HVqfU9PfSWQzIbEIYlL3i9QeSnNTn0R50vNgMQ0SKwqjs01EhunVTcUG8zwHK7AznPOAZKO6QHHv2LZrFBjPTIIsOURCcZ+P4EXDBANAMYLD07aw3EicKjmgM/RIICGDQQ2S9TA+G8p6U5+4D0ObsDe8GdYU0xTrKaAVTDRDgtQtGnPNoU3vBE3ItAOP4GxkQFOtMdB4DjfB+QPIfaTLM5Ryf6EoqxHjb387OFeV1v4XJG89gOWWqeuMq2qstJV5ewWEj1Ojgqj4iHQxB7B6iMqpqqouvNjwVN/bUYGXZbn+BE+ZF5gn6gdpED+cLr6JlwAAAABJRU5ErkJggg=="
+    },
+    
+
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
+    {
+        "name": "Metasploit",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEVHcEwNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLnZTk36AAAAEHRSTlMANnOcu9vx/0UKhg4ZHSxd0L4rGwAAAMtJREFUeAFiAAFGZdf0shCjTiATzF1aDgXJDWABQKtzCENAGIdh/LUzOBiJqCc9aVcVBEUTJMweu2CaXmRN1ZOergc9maaa/53zfbIn/vaGF6fLL1wNbvcJwLrdzUAqAvRVzUERxHIhgJMHOq/kQ9jzoGUHVcthK0lPB3hIAS7E0sQDVOA/0CAxuL6hCaqki/lDMBqDAvTuPBSWyrFBKf5ANDNosMcKSWR1lljPndKaZCXKOmItlBcBbPQtBBjI6QArudXn7OVVnCrtBfFMc0IoeqXbAAAAAElFTkSuQmCC"
+    },
+    {
+        "name": "Linux",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAVFBMVEVHcExWqM1UpsxTpsxVp8xUp8xUp8xTpsw9msUrkL8bibtDncc9mcQXh7ocibscibtTpsxHn8ccibskjb4bibscibscibscibshjL0cibscibscibu5lVHEAAAAHHRSTlMAQaDZ//TCZQn/UBb///9+hf9jI8LZ70AwspTPTO+pFwAAAPBJREFUeAGN0NF2gyAQBNARVqElbqxaIen//2cB5gTNU+6bZ84u6+Azg7EiMk7O450b5cVcY2/l7OsbXZCL26z3PieVXZxbJpGfWVVXUN1pArdYrTbeItkAMMWuxS+qUWQMcOKQ+Q04tIjIhpx5TGJQrDuQtHggMyIhZ4Iu1dl2zoBFZMJZ3NtJYrCJiMVV1NLECFjeS8+8lb+a4FpnCc2hTeuQlbGVVSkhW3JjOmv2RHZXas3eWsQ0avOHYmbEd8A3V/Q99Po+zufRHUjc0WxKHODrFLXzNdzRpR5u8H2OHj2MGvEmsFEgoOt8iingU//8LBLmtIqFUQAAAABJRU5ErkJggg=="
+    },
+    {
+        "name": "Flutter",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAUVBMVEVHcEwGV5xD0f0FV5xE0f1A0f5B0P0HWZ03u+lG0v00uOskvv0evP05y/0FWJwgicMZoeRB0P1B0P0DVptF0f1B0P1G0f0evP4txf4YpegNTJXW3qYkAAAAFHRSTlMAl1tblcYm/gbtE8bu+Ml47KNpaVotsW0AAACbSURBVDiNzdLLEsIgDIVhvNQguvCSUun7P6gEQqczkMSlZ/v90zKlznXzR94r9Eh+RcSZ9pS9BGfBIweic6A7Kh5/cVQ8Wh7/3LfzX9rabYb2/apPM2/yW4BD379Cdy6K33Dkpai+fHDk+RzsSy06ryPPheG5EDzcOUiHceB8LRKAWqQV1CKtFMjFo7BWABiFMwv7Gf7Ee9MP8wXDvRc2Pnf0yAAAAABJRU5ErkJggg=="
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    },
+    {
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+    },
+    
+    
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }    
+]
