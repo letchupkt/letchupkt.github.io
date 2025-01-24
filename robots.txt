@@ -1,0 +1,10 @@
+# Allow all web crawlers to access everything
+User-agent: *
+Disallow: /assets/
+
+# Allow specific web crawlers to access everything (optional)
+# User-agent: Googlebot
+# Disallow: /assets/
+
+# Specify the location of your sitemap (if you have one)
+Sitemap: https://letchupkt.netlify.app/sitemap.xml
