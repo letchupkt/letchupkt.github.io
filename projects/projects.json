@@ -11,6 +11,17 @@
   },
 
   {
+    "name": "SRCE COLLEGE WEBSITE",
+    "desc": "Developed the official website for SRCE College, providing a central hub for information about academics, admissions, faculty, events, and college life.",
+    "image": "srceweb",
+
+    "links": {
+      "view":"https://srcebyletchu.netlify.app",
+      "code": "https://github.com/letchupkt/SRCE-college-web "
+    }
+  },
+
+  {
     "name": "ESPWEBTOOL",
     "desc": "A web based tool to upload firmware to a ESP boards.",
     "image": "espwebtool",
@@ -67,7 +78,7 @@
     "image": "wifibruter",
 
     "links": {
-      "view":"",
+      
       "code": "https://github.com/letchupkt/wifi-bruter"
     }
   },
