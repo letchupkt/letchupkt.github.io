@@ -1,0 +1,72 @@
+[
+    {
+        "title": "CCNA 200-301 Network Fundamentals",
+        "organization": "Simplilearn",
+        "icon": "fas fa-network-wired"
+    },
+    {
+        "title": "Certificate of Participation in Felicity '25 Hackathon",
+        "organization": "Unstop",
+        "icon": "fas fa-trophy"
+    },
+    {
+        "title": "Introduction to CIP",
+        "organization": "OPSWAT Academy",
+        "icon": "fas fa-shield-alt"
+    },
+    {
+        "title": "OPSWAT Introduction to Critical Infrastructure Protection (ICIP)",
+        "organization": "OPSWAT",
+        "icon": "fas fa-shield-alt"
+    },
+    {
+        "title": "Postman API Fundamentals Student Expert",
+        "organization": "Postman",
+        "icon": "fas fa-paper-plane"
+    },
+    {
+        "title": "Goldman Sachs - Software Engineering Job Simulation",
+        "organization": "Forage",
+        "icon": "fas fa-briefcase"
+    },
+    {
+        "title": "Mastercard - Cybersecurity Job Simulation",
+        "organization": "Forage",
+        "icon": "fas fa-briefcase"
+    },
+    {
+        "title": "Full Stack Development",
+        "organization": "NoviTech R&D Pvt Ltd",
+        "icon": "fas fa-cogs"
+    },
+    {
+        "title": "Internet of Things",
+        "organization": "NoviTech R&D Pvt Ltd",
+        "icon": "fas fa-plug"
+    },
+    {
+        "title": "Blockchain",
+        "organization": "NoviTech R&D Pvt Ltd",
+        "icon": "fas fa-cogs"
+    },
+    {
+        "title": "Ethical Hacking: Hack Android",
+        "organization": "Udemy",
+        "icon": "fas fa-lock"
+    },
+    {
+        "title": "Artificial Intelligence",
+        "organization": "NoviTech R&D Pvt Ltd",
+        "icon": "fas fa-brain"
+    },
+    {
+        "title": "Guvi certified in Python",
+        "organization": "GUVI Geek Networks, IITM Research Park",
+        "icon": "fab fa-python"
+    },
+    {
+        "title": "Cybersecurity",
+        "organization": "NoviTech R&D Pvt Ltd",
+        "icon": "fas fa-shield-alt"
+    }
+]

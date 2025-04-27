@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Forage Cybersecurity Job Simulator",
+        "icon": "fas fa-certificate",
+        "companies": [
+            "MasterCard",
+            "Telestra",
+            "goldman Sachs"
+         
+        ]
+    },
+    {
+        "title": "AWS Educate - Getting Started with Security",
+        "icon": "fab fa-aws",
+        "companies": [
+            "Specialized training in AWS IAM and security services"
+        ]
+    },
+    {
+        "title": "TryHackMe Security Paths",
+        "icon": "fas fa-shield-alt",
+        "companies": [
+            "Jr Penetration Tester",
+            "Web Fundamentals"
+        ]
+    },
+    {
+        "title": "Microsoft Learn Security",
+        "icon": "fab fa-microsoft",
+        "companies": [
+            "Linux command line and Shell",
+            "Introduction to GitHub"
+        ]
+    },
+    {
+        "title": "SimpliLearn Training",
+        "icon": "fas fa-laptop-code",
+        "companies": [
+            "CCNA 200-301"
+            
+        ]
+    },
+    {
+        "title": "Udemy Security Courses",
+        "icon": "fas fa-graduation-cap",
+        "companies": [
+            "Complete Ethical Hacking Bootcamp",
+            "Complete Ethical Hacking Course With ParrotOS 2022"
+        ]
+    },
+    {
+        "title": "Great Learning Courses",
+        "icon": "fas fa-graduation-cap",
+        "companies": [
+            "Introduction to Ethical Hacking ",
+            "Introduction to Cybersecurity"
+        ]
+    },
+    {
+        "title": "Novi Tech R&D Pvt Ltd",
+        "icon": "fas fa-cogs",
+        "companies": [
+            "BlockChain Development",
+            "Full Stack Development",
+            "Internet of Things",
+            "Artificial Intelligence",
+            "Cyber security"
+
+            
+        ]
+    }
+]
