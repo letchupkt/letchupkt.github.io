@@ -46,7 +46,7 @@ Visit the portfolio: https://letchupkt.github.io
 - 🐙 [GitHub @letchupkt](https://github.com/letchupkt)  
 - 💼 [LinkedIn /your-linkedin-handle](https://www.linkedin.com/in/lakshmikanthank)  
 - 🔗 [Link List](https://linklistbyletchu.netlify.app)  
-- 🛡️ [TryHackMe /info.letchupkt](https://tryhackme.com/letchupkt)  
+- 🛡️ [TryHackMe /info.letchupkt](https://tryhackme.com/infi.letchupkt)  
   
 
 ---
