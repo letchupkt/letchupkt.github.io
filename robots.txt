@@ -1,13 +1,9 @@
-# Allow all web crawlers to access everything
+# Allow all bots to crawl everything except /assets/
 User-agent: *
 Disallow: /assets/
 
-# Allow specific web crawlers to access everything (optional)
-User-agent: *
-Disallow: /robots.txt
+# Allow access to robots.txt and sitemap.xml (do NOT disallow them!)
+# These are public files and should be accessible
 
-User-agent: *
-Disallow: /sitemap.xml
-
-# Specify the location of your sitemap (if you have one)
+# Sitemap location
 Sitemap: https://letchupkt.vgrow.tech/sitemap.xml
