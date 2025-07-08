@@ -10,4 +10,4 @@ User-agent: *
 Disallow: /sitemap.xml
 
 # Specify the location of your sitemap (if you have one)
-Sitemap: https://letchupkt.netlify.app/sitemap.xml
+Sitemap: https://letchupkt.vgrow.tech/sitemap.xml
