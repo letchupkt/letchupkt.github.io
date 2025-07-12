@@ -1,82 +1,86 @@
 [
-    {
-        "name": "Sophish",
-        "description": "A social engineering tool for phishing attacks with payload generation and social engineering techniques.",
-        "technologies": ["Python", "Social Engineering", "Networking"],
-        "githubLink": "https://github.com/letchupkt/sophish",
-        "externalLink": ""
-      },
-      {
-        "name": "CamHunt",
-        "description": "A tool to perform camera reconnaissance and find devices in a network.",
-        "technologies": ["Python", "Networking", "Reconnaissance"],
-        "githubLink": "https://github.com/letchupkt/Camhunt",
-        "externalLink": ""
-      }
-    ,{
-      "name": "LETCHU SCRIPTOR",
-      "description": "Convert DuckyScript to Keyboard Scripts.",
-      "technologies": ["JavaScript", "Web Development"],
-      "githubLink": "https://github.com/letchupkt/letchuscriptor",
-      "externalLink": "https://letchuscriptor.netlify.app"
-    },
-    {
-      "name": "SRCE COLLEGE WEBSITE",
-      "description": "Developed the official website for SRCE College, providing a central hub for information about academics, admissions, faculty, events, and college life.",
-      "technologies": ["React", "JavaScript", "HTML", "CSS"],
-      "githubLink": "https://github.com/letchupkt/SRCE-college-web",
-      "externalLink": "https://srcebyletchu.netlify.app"
-    },
-    {
-      "name": "ESPWEBTOOL",
-      "description": "A web based tool to upload firmware to ESP boards.",
-      "technologies": ["HTML", "JavaScript", "ESP32", "Web Development"],
-      "githubLink": "https://github.com/letchupkt/espwebtool",
-      "externalLink": "https://espwebtool.netlify.app"
-    },
-    {
-      "name": "L3TCHU S3T-TOOL KIT",
-      "description": "A Web Based social engineering tool.",
-      "technologies": ["Web Development", "JavaScript"],
-      "githubLink": "https://github.com/letchupkt/LETCHU-SET",
-      "externalLink": ""
-    },
-    {
-      "name": "Link List",
-      "description": "A Web Based Link List site like link tree.",
-      "technologies": ["HTML", "CSS", "JavaScript"],
-      "githubLink": "https://github.com/letchupkt/linklist",
-      "externalLink": "https://linklistbyletchu.netlify.app"
-    },
-    {
-      "name": "Web Builder website",
-      "description": "A website to build static websites.",
-      "technologies": ["HTML", "CSS", "JavaScript"],
-      "githubLink": "https://github.com/letchupkt/webbuilder",
-      "externalLink": "https://webbuilderbyletchu.netlify.app"
-    },
-    {
-      "name": "IP tracker",
-      "description": "IP tracking software built using Python.",
-      "technologies": ["Python", "Networking"],
-      "githubLink": "https://github.com/letchupkt/iptracker",
-      "externalLink": ""
-    },
-    {
-      "name": "Wi-Fi Bruter",
-      "description": "A Python-based software to perform dictionary attack on Wi-Fi.",
-      "technologies": ["Python", "Networking", "Security"],
-      "githubLink": "https://github.com/letchupkt/wifi-bruter",
-      "externalLink": ""
-    },
-    {
-      "name": "Bg Remover",
-      "description": "A Web-Based background remover made using Python.",
-      "technologies": ["Python", "Web Development"],
-      "githubLink": "https://github.com/letchupkt/Bgremover-python",
-      "externalLink": "https://bgremoverbyletchu.netlify.app"
-    }
-    
-    
-  ]
-  
+  {
+    "name": "CyberRecon Arsenal",
+    "description": "Advanced open-source reconnaissance toolkit for ethical hackers, OSINT researchers, and cybersecurity analysts.",
+    "technologies": ["JavaScript", "Vite", "React", "Cybersecurity", "OSINT"],
+    "githubLink": "https://github.com/letchupkt/cyberreconarsenal",
+    "externalLink": "https://cyberreconarsenal.netlify.app"
+  },
+  {
+    "name": "SRCE COLLEGE WEBSITE",
+    "description": "Developed the official website for SRCE College, providing a central hub for information about academics, admissions, faculty, events, and college life.",
+    "technologies": ["React", "JavaScript", "HTML", "CSS"],
+    "githubLink": "https://github.com/letchupkt/SRCE-college-web",
+    "externalLink": "https://srcebyletchu.netlify.app"
+  },
+  {
+    "name": "Sophish",
+    "description": "A social engineering tool for phishing attacks with payload generation and social engineering techniques.",
+    "technologies": ["Python", "Social Engineering", "Networking"],
+    "githubLink": "https://github.com/letchupkt/sophish",
+    "externalLink": ""
+  },
+  {
+    "name": "CamHunt",
+    "description": "A tool to perform camera reconnaissance and find devices in a network.",
+    "technologies": ["Python", "Networking", "Reconnaissance"],
+    "githubLink": "https://github.com/letchupkt/Camhunt",
+    "externalLink": ""
+  },
+  {
+    "name": "LETCHU SCRIPTOR",
+    "description": "Convert DuckyScript to Keyboard Scripts.",
+    "technologies": ["JavaScript", "Web Development"],
+    "githubLink": "https://github.com/letchupkt/letchuscriptor",
+    "externalLink": "https://letchuscriptor.netlify.app"
+  },
+  {
+    "name": "ESPWEBTOOL",
+    "description": "A web based tool to upload firmware to ESP boards.",
+    "technologies": ["HTML", "JavaScript", "ESP32", "Web Development"],
+    "githubLink": "https://github.com/letchupkt/espwebtool",
+    "externalLink": "https://espwebtool.netlify.app"
+  },
+  {
+    "name": "Wi-Fi Bruter",
+    "description": "A Python-based software to perform dictionary attack on Wi-Fi.",
+    "technologies": ["Python", "Networking", "Security"],
+    "githubLink": "https://github.com/letchupkt/wifi-bruter",
+    "externalLink": ""
+  },
+  {
+    "name": "L3TCHU S3T-TOOL KIT",
+    "description": "A Web Based social engineering tool.",
+    "technologies": ["Web Development", "JavaScript"],
+    "githubLink": "https://github.com/letchupkt/LETCHU-SET",
+    "externalLink": ""
+  },
+  {
+    "name": "IP tracker",
+    "description": "IP tracking software built using Python.",
+    "technologies": ["Python", "Networking"],
+    "githubLink": "https://github.com/letchupkt/iptracker",
+    "externalLink": ""
+  },
+  {
+    "name": "Bg Remover",
+    "description": "A Web-Based background remover made using Python.",
+    "technologies": ["Python", "Web Development"],
+    "githubLink": "https://github.com/letchupkt/Bgremover-python",
+    "externalLink": "https://bgremoverbyletchu.netlify.app"
+  },
+  {
+    "name": "Web Builder website",
+    "description": "A website to build static websites.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "githubLink": "https://github.com/letchupkt/webbuilder",
+    "externalLink": "https://webbuilderbyletchu.netlify.app"
+  },
+  {
+    "name": "Link List",
+    "description": "A Web Based Link List site like link tree.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "githubLink": "https://github.com/letchupkt/linklist",
+    "externalLink": "https://linklistbyletchu.netlify.app"
+  }
+]
