@@ -1,9 +1,23 @@
 [
   {
+    "name": "WebRaptor",
+    "description": "Automated bug bounty and recon tool that integrates Nmap, Nuclei, Amass, Subzy, and more. Features a shell-like interface and vulnerability detection system for full-scope scanning.",
+    "technologies": ["Python", "Cybersecurity", "Automation", "CLI"],
+    "githubLink": "https://github.com/letchupkt/webraptor",
+    "externalLink": ""
+  },
+  {
+    "name": "Site Security Inspector",
+    "description": "A real-time vulnerability and technology scanner for any website. Analyze security headers, detect CMS/frameworks, and track exposed endpoints with detailed insights.",
+    "technologies": ["Python", "Web Security", "Recon", "CLI"],
+    "githubLink": "",
+    "externalLink": "sitesecurityinspector.netlify.app"
+  },
+  {
     "name": "CyberRecon Arsenal",
     "description": "Advanced open-source reconnaissance toolkit for ethical hackers, OSINT researchers, and cybersecurity analysts.",
     "technologies": ["JavaScript", "Vite", "React", "Cybersecurity", "OSINT"],
-    "githubLink": "https://github.com/letchupkt/cyberreconarsenal",
+    "githubLink": "",
     "externalLink": "https://cyberreconarsenal.netlify.app"
   },
   {
