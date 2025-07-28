@@ -1,12 +1,19 @@
 [
     {
+        "title": "WiFi & API Pentesting",
+        "icon": "fas fa-wifi",
+        "companies": [
+            "WiFi Pentesting - Capricio University",
+            "API Pentesting - Capricio University"
+        ]
+    },
+    {
         "title": "Forage Cybersecurity Job Simulator",
         "icon": "fas fa-certificate",
         "companies": [
             "MasterCard",
             "Telestra",
             "goldman Sachs"
-         
         ]
     },
     {
@@ -37,7 +44,6 @@
         "icon": "fas fa-laptop-code",
         "companies": [
             "CCNA 200-301"
-            
         ]
     },
     {
@@ -65,8 +71,6 @@
             "Internet of Things",
             "Artificial Intelligence",
             "Cyber security"
-
-            
         ]
     }
 ]
