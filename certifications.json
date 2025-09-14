@@ -1,5 +1,20 @@
 [
     {
+        "title": "TryHackMe – Advent of Cyber 2022",
+        "organization": "TryHackMe",
+        "icon": "fas fa-hat-wizard"
+    },
+    {
+        "title": "TryHackMe – Advent of Cyber 2023",
+        "organization": "TryHackMe",
+        "icon": "fas fa-hat-wizard"
+    },
+    {
+        "title": "TryHackMe – Advent of Cyber 2024",
+        "organization": "TryHackMe",
+        "icon": "fas fa-hat-wizard"
+    },
+    {
         "title": "CCNA 200-301 Network Fundamentals",
         "organization": "Simplilearn",
         "icon": "fas fa-network-wired"
