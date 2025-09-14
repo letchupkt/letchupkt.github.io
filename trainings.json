@@ -4,7 +4,8 @@
         "icon": "fas fa-wifi",
         "companies": [
             "WiFi Pentesting - Cappriciosec University",
-            "API Pentesting - Cappriciosec University"
+            "API Pentesting - Cappriciosec University",
+             "Social Engineering & Ethical Hacking"
         ]
     },
     {
@@ -29,6 +30,11 @@
         "companies": [
             "Jr Penetration Tester",
             "Web Fundamentals"
+            "Advent of Cyber 2024",
+            "Advent of Cyber 2023"
+            "Advent of Cyber 2022",
+            "Advent of Cyber 2019"
+            
         ]
     },
     {
@@ -74,3 +80,4 @@
         ]
     }
 ]
+
