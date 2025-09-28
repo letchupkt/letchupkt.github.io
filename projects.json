@@ -1,5 +1,19 @@
 [
   {
+    "name": "Vaulto",
+    "description": "A zero-knowledge, secure password manager built with client-side encryption, biometric authentication, and PWA/browser extension support. Designed for enterprise-grade security with a consumer-friendly experience.",
+    "technologies": ["React", "TypeScript", "PWA", "Cybersecurity"],
+    "githubLink": "https://github.com/letchupkt/vaulto",
+    "externalLink": "https://vaulto.vgrow.tech"
+  },
+  {
+    "name": "FlowPilotAI",
+    "description": "An AI-powered workflow automation platform that integrates with APIs, SaaS tools, and custom scripts to build intelligent, no-code workflows. Designed to boost productivity and streamline complex processes.",
+    "technologies": ["React", "Node.js", "AI", "Automation", "API"],
+    "githubLink": "",
+    "externalLink": "https://flowpilotai.vercel.app"
+  },
+  {
     "name": "WebRaptor",
     "description": "Automated bug bounty and recon tool that integrates Nmap, Nuclei, Amass, Subzy, and more. Features a shell-like interface and vulnerability detection system for full-scope scanning.",
     "technologies": ["Python", "Cybersecurity", "Automation", "CLI"],
@@ -11,14 +25,14 @@
     "description": "A real-time vulnerability and technology scanner for any website. Analyze security headers, detect CMS/frameworks, and track exposed endpoints with detailed insights.",
     "technologies": ["Python", "Web Security", "Recon", "CLI"],
     "githubLink": "",
-    "externalLink": "sitesecurityinspector.netlify.app"
+    "externalLink": "https://ssi.vgrow.tech"
   },
   {
     "name": "CyberRecon Arsenal",
     "description": "Advanced open-source reconnaissance toolkit for ethical hackers, OSINT researchers, and cybersecurity analysts.",
     "technologies": ["JavaScript", "Vite", "React", "Cybersecurity", "OSINT"],
     "githubLink": "",
-    "externalLink": "https://cyberreconarsenal.netlify.app"
+    "externalLink": "https://cyberreconarsenal.vgrow.tech"
   },
   {
     "name": "SRCE COLLEGE WEBSITE",
@@ -49,11 +63,25 @@
     "externalLink": "https://letchuscriptor.netlify.app"
   },
   {
-    "name": "ESPWEBTOOL",
-    "description": "A web based tool to upload firmware to ESP boards.",
-    "technologies": ["HTML", "JavaScript", "ESP32", "Web Development"],
-    "githubLink": "https://github.com/letchupkt/espwebtool",
-    "externalLink": "https://espwebtool.netlify.app"
+    "name": "NetSuck WebFlasher",
+    "description": "A web based tool to upload My Firmware to ESP boards.",
+    "technologies": ["HTML", "JavaScript","React", "ESP32", "Web Development"],
+    "githubLink": "",
+    "externalLink": "https://netsuck.vgrow.tech"
+  },
+  {
+    "name": "RepoShield",
+    "description": "AI-powered GitHub Repository Security & Code Quality Scanner. RepoShield helps developers keep their repositories secure, clean, and production-ready with automated security analysis and code insights.",
+    "technologies": ["Python", "AI", "Cybersecurity", "GitHub API"],
+    "githubLink": "https://github.com/letchupkt/reposhield",
+    "externalLink": ""
+  },
+  {
+    "name": "Legal Contract Analysis Bot",
+    "description": "An AI-powered web application that helps small business owners in India understand complex legal contracts through automated analysis, risk assessment, and plain-language explanations.",
+    "technologies": ["Python", "Flask", "AI", "NLP", "LegalTech"],
+    "githubLink": "https://github.com/letchupkt/Legal-Contract-Analysis-Bot",
+    "externalLink": ""
   },
   {
     "name": "Wi-Fi Bruter",
