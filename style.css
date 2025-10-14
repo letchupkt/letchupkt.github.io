@@ -110,7 +110,6 @@ h1 {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-shadow: var(--glow-effect);
 }
 
 h2 {
@@ -321,17 +320,7 @@ nav {
 }
 
 .hero::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image:
-        linear-gradient(rgba(0, 238, 255, 0.05) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(0, 238, 255, 0.05) 1px, transparent 1px);
-    background-size: 40px 40px;
-    z-index: 1;
+    /* Removed grid pattern glow effect */
 }
 
 .hero-content {
@@ -923,14 +912,19 @@ nav {
 }
 
 .trainings-container {
-    max-width: 800px;
+    max-width: 1200px;
     margin: 0 auto;
+}
+
+.trainings-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-m);
 }
 
 .training-item {
     display: flex;
     align-items: flex-start;
-    margin-bottom: var(--spacing-m);
     padding: var(--spacing-m);
     background-color: var(--tertiary-dark);
     border-radius: var(--border-radius);
@@ -1549,7 +1543,6 @@ footer {
     font-size: clamp(1.5rem, 3vw, 2rem);
     font-weight: 700;
     color: var(--accent-color);
-    text-shadow: var(--glow-effect);
 }
 
 .stat-label {
@@ -2034,7 +2027,7 @@ Mobile Navigation Styles */
 .hero-image {
     position: relative;
     width: 100%;
-    max-width: 350px;
+    max-width: 450px;
     aspect-ratio: 1;
     border-radius: 50%;
     overflow: hidden;
@@ -2050,14 +2043,12 @@ Mobile Navigation Styles */
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
-    border: 4px solid var(--accent-color);
-    box-shadow: 0 0 25px rgba(0, 238, 255, 1);
-    transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+    border: 3px solid var(--accent-color);
+    transition: transform 0.3s ease;
 }
 
 .hero-image-person:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 40px rgba(0, 238, 255, 1);
+    transform: scale(1.02);
 }
 
 .hero-text h1 {
@@ -2153,7 +2144,7 @@ Mobile Navigation Styles */
 
     .hero-image {
         order: 1;
-        max-width: 250px;
+        max-width: 300px;
     }
 
     .cta-buttons {
@@ -2172,7 +2163,7 @@ Mobile Navigation Styles */
     }
 
     .hero-image {
-        max-width: 200px;
+        max-width: 250px;
     }
 
     .cta-buttons {
@@ -2214,7 +2205,7 @@ section {
 /* Enhanced Skills Section */
 .skills {
     padding: var(--spacing-xl) 0;
-    background: linear-gradient(135deg, rgba(0, 238, 255, 0.02) 0%, rgba(0, 0, 0, 1) 100%);
+    background-color: var(--primary-dark);
 }
 
 .skills-container {
@@ -2241,13 +2232,11 @@ section {
 }
 
 .skill-category.featured {
-    border: 2px solid var(--accent-color);
-    background: linear-gradient(135deg, rgba(0, 238, 255, 0.05) 0%, var(--secondary-dark) 100%);
+    /* Removed featured effect - keeping all skill categories consistent */
 }
 
 .skill-category.featured::before {
-    content: '';
-    position: absolute;
+    /* Removed glow bar effect */
     top: 0;
     left: 0;
     right: 0;
@@ -2329,7 +2318,7 @@ section {
 
 /* Clean Skill Items */
 .skill-item:hover {
-    background: linear-gradient(135deg, rgba(0, 238, 255, 0.1) 0%, var(--secondary-dark) 100%);
+    background-color: var(--secondary-dark);
     border-color: var(--accent-color);
 }
 
@@ -2882,18 +2871,11 @@ a:focus {
 
 /* Enhanced Certification Styles */
 .certification-card.featured {
-    border: 2px solid var(--accent-color);
-    background: linear-gradient(135deg, rgba(0, 238, 255, 0.05) 0%, var(--secondary-dark) 100%);
+    /* Removed glow effect - keeping all certification cards consistent */
 }
 
 .certification-card.featured::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 3px;
-    background: linear-gradient(90deg, var(--accent-color), var(--accent-color-2));
+    /* Removed glow bar effect */
 }
 
 .cert-organization {
@@ -2932,11 +2914,9 @@ a:focus {
     line-height: 1.3;
 }
 
-/* Enhan
-ced Training Styles */
+/* Enhanced Training Styles */
 .training-item.featured {
-    border-left: 4px solid var(--accent-color);
-    background: linear-gradient(135deg, rgba(0, 238, 255, 0.05) 0%, var(--secondary-dark) 100%);
+    /* Removed glow effect - keeping all training items consistent */
 }
 
 .training-header {
@@ -3013,7 +2993,7 @@ ced Training Styles */
 
 .about {
     padding: var(--spacing-xl) 0;
-    background: linear-gradient(135deg, rgba(0, 238, 255, 0.02) 0%, rgba(0, 0, 0, 1) 100%);
+    background-color: var(--primary-dark);
 }
 
 .about-content {
@@ -3128,7 +3108,6 @@ ced Training Styles */
     font-weight: 700;
     color: var(--accent-color);
     margin-bottom: 0.3rem;
-    text-shadow: var(--glow-effect);
 }
 
 .stat-label {
@@ -3351,23 +3330,11 @@ ced Training Styles */
 }
 
 .hero-particles {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background: radial-gradient(circle at 20% 80%, rgba(0, 238, 255, 0.1) 0%, transparent 50%),
-                radial-gradient(circle at 80% 20%, rgba(0, 255, 102, 0.1) 0%, transparent 50%);
-    animation: float 6s ease-in-out infinite;
+    /* Particles effect removed for cleaner look */
 }
 
 .hero-grid {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-image: 
-        linear-gradient(rgba(0, 238, 255, 0.03) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(0, 238, 255, 0.03) 1px, transparent 1px);
-    background-size: 50px 50px;
-    animation: gridMove 20s linear infinite;
+    /* Removed grid pattern glow effect */
 }
 
 @keyframes float {
@@ -3617,84 +3584,9 @@ ced Training Styles */
     margin: 0 auto;
 }
 
-.image-glow {
-    position: absolute;
-    top: -20px;
-    left: -20px;
-    right: -20px;
-    bottom: -20px;
-    background: radial-gradient(circle, rgba(0, 238, 255, 0.3) 0%, transparent 70%);
-    border-radius: 50%;
-    animation: pulse 3s ease-in-out infinite;
-}
+/* Image glow and frame effects removed for cleaner look */
 
-@keyframes pulse {
-    0%, 100% { transform: scale(1); opacity: 0.7; }
-    50% { transform: scale(1.05); opacity: 1; }
-}
-
-.image-frame {
-    position: absolute;
-    top: -10px;
-    left: -10px;
-    right: -10px;
-    bottom: -10px;
-    border: 2px solid var(--accent-color);
-    border-radius: 50%;
-    animation: rotate 20s linear infinite;
-}
-
-.image-frame::before {
-    content: '';
-    position: absolute;
-    top: -5px;
-    left: -5px;
-    right: -5px;
-    bottom: -5px;
-    border: 1px solid rgba(0, 238, 255, 0.3);
-    border-radius: 50%;
-}
-
-@keyframes rotate {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-}
-
-.floating-elements {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    pointer-events: none;
-}
-
-.floating-icon {
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    background: linear-gradient(135deg, var(--accent-color), var(--accent-color-2));
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--primary-dark);
-    font-size: 1rem;
-    animation: floatAround 8s ease-in-out infinite;
-    animation-delay: var(--delay);
-}
-
-.floating-icon:nth-child(1) { top: 10%; left: 10%; }
-.floating-icon:nth-child(2) { top: 20%; right: 10%; }
-.floating-icon:nth-child(3) { bottom: 20%; left: 15%; }
-.floating-icon:nth-child(4) { bottom: 10%; right: 15%; }
-
-@keyframes floatAround {
-    0%, 100% { transform: translateY(0px) rotate(0deg); }
-    25% { transform: translateY(-15px) rotate(90deg); }
-    50% { transform: translateY(-10px) rotate(180deg); }
-    75% { transform: translateY(-20px) rotate(270deg); }
-}
+/* Floating elements and icons removed for cleaner hero section */
 
 /* ====================
    Enhanced Experience Section
@@ -3702,7 +3594,7 @@ ced Training Styles */
 
 .experience {
     padding: var(--spacing-xl) 0;
-    background: linear-gradient(135deg, rgba(0, 238, 255, 0.02) 0%, rgba(0, 0, 0, 1) 100%);
+    background-color: var(--primary-dark);
 }
 
 .experience-grid {
@@ -3729,13 +3621,11 @@ ced Training Styles */
 }
 
 .experience-card.featured {
-    border: 2px solid var(--accent-color);
-    background: linear-gradient(135deg, rgba(0, 238, 255, 0.05) 0%, var(--secondary-dark) 100%);
+    /* Removed featured effect - keeping all experience cards consistent */
 }
 
 .experience-card.featured::before {
-    content: '';
-    position: absolute;
+    /* Removed glow bar effect */
     top: 0;
     left: 0;
     right: 0;
@@ -3918,8 +3808,7 @@ ced Training Styles */
 }
 
 .education-card.current {
-    border: 2px solid var(--accent-color);
-    background: linear-gradient(135deg, rgba(0, 238, 255, 0.05) 0%, var(--secondary-dark) 100%);
+    /* Removed current/featured effect - keeping all education cards consistent */
 }
 
 .education-header {
@@ -4012,6 +3901,10 @@ ced Training Styles */
     }
     
     .achievements-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .trainings-list {
         grid-template-columns: 1fr;
     }
     
