@@ -1497,35 +1497,7 @@ footer {
    Articles Page Styles
    ==================== */
 
-/* Articles Hero Section */
-.articles-hero {
-    min-height: 15vh;
-    display: flex;
-    align-items: center;
-    padding-top: 70px;
-    padding-bottom: var(--spacing-s);
-    background-color: var(--primary-dark);
-    position: relative;
-    text-align: center;
-}
-
-.articles-hero .hero-content h1 {
-    font-size: clamp(2rem, 4vw, 2.5rem);
-    margin-bottom: var(--spacing-xs);
-    background: linear-gradient(45deg, var(--text-primary), var(--accent-color));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-}
-
-.articles-hero .hero-content p {
-    font-size: clamp(0.9rem, 2vw, 1rem);
-    color: var(--text-secondary);
-    margin-bottom: var(--spacing-m);
-    max-width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-}
+/* Articles Hero Section - Removed */
 
 .hero-stats {
     display: flex;
@@ -1555,7 +1527,8 @@ footer {
 /* Articles Controls */
 .articles-controls {
     background-color: var(--secondary-dark);
-    padding: var(--spacing-m) 0;
+    padding: var(--spacing-l) 0 var(--spacing-m) 0;
+    margin-top: 70px;
     border-bottom: 1px solid var(--border-color);
 }
 
@@ -1899,9 +1872,7 @@ footer {
 
 /* Responsive Design for Articles */
 @media (max-width: 768px) {
-    .articles-hero {
-        min-height: 12vh;
-        padding-top: 60px;
+    /* Articles hero removed */
         padding-bottom: var(--spacing-xs);
     }
 
@@ -2599,40 +2570,13 @@ a:focus {
     font-size: var(--fs-s);
 }
 
-/* Projects Hero Section */
-.projects-hero {
-    min-height: 15vh;
-    display: flex;
-    align-items: center;
-    padding-top: 70px;
-    padding-bottom: var(--spacing-s);
-    background-color: var(--primary-dark);
-    position: relative;
-    text-align: center;
-}
-
-.projects-hero .hero-content h1 {
-    font-size: clamp(2rem, 4vw, 2.5rem);
-    margin-bottom: var(--spacing-xs);
-    background: linear-gradient(45deg, var(--text-primary), var(--accent-color));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-}
-
-.projects-hero .hero-content p {
-    font-size: clamp(0.9rem, 2vw, 1rem);
-    color: var(--text-secondary);
-    margin-bottom: var(--spacing-m);
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-}
+/* Projects Hero Section - Removed */
 
 /* Projects Controls */
 .projects-controls {
     background-color: var(--secondary-dark);
-    padding: var(--spacing-m) 0;
+    padding: var(--spacing-l) 0 var(--spacing-m) 0;
+    margin-top: 70px;
     border-bottom: 1px solid var(--border-color);
 }
 
@@ -2819,9 +2763,7 @@ a:focus {
         gap: var(--spacing-s);
     }
 
-    .projects-hero {
-        min-height: 12vh;
-        padding-top: 60px;
+    /* Projects hero removed */
     }
 
     .project-header {
