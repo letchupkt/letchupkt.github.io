@@ -1,87 +1,138 @@
 [
     {
-        "title": "TryHackMe – Advent of Cyber 2022",
+        "title": "TryHackMe – Advent of Cyber 2024",
         "organization": "TryHackMe",
-        "icon": "fas fa-hat-wizard"
+        "icon": "fas fa-hat-wizard",
+        "date": "2024-12",
+        "category": "Cybersecurity",
+        "featured": true
     },
     {
         "title": "TryHackMe – Advent of Cyber 2023",
         "organization": "TryHackMe",
-        "icon": "fas fa-hat-wizard"
+        "icon": "fas fa-hat-wizard",
+        "date": "2023-12",
+        "category": "Cybersecurity",
+        "featured": true
     },
     {
-        "title": "TryHackMe – Advent of Cyber 2024",
+        "title": "TryHackMe – Advent of Cyber 2022",
         "organization": "TryHackMe",
-        "icon": "fas fa-hat-wizard"
-    },
-    {
-        "title": "CCNA 200-301 Network Fundamentals",
-        "organization": "Simplilearn",
-        "icon": "fas fa-network-wired"
-    },
-    {
-        "title": "Certificate of Participation in Felicity '25 Hackathon",
-        "organization": "Unstop",
-        "icon": "fas fa-trophy"
-    },
-    {
-        "title": "Introduction to CIP",
-        "organization": "OPSWAT Academy",
-        "icon": "fas fa-shield-alt"
-    },
-    {
-        "title": "OPSWAT Introduction to Critical Infrastructure Protection (ICIP)",
-        "organization": "OPSWAT",
-        "icon": "fas fa-shield-alt"
+        "icon": "fas fa-hat-wizard",
+        "date": "2022-12",
+        "category": "Cybersecurity",
+        "featured": false
     },
     {
         "title": "Postman API Fundamentals Student Expert",
         "organization": "Postman",
-        "icon": "fas fa-paper-plane"
+        "icon": "fas fa-paper-plane",
+        "date": "2024-11",
+        "category": "API Development",
+        "featured": true
+    },
+    {
+        "title": "CCNA 200-301 Network Fundamentals",
+        "organization": "Simplilearn",
+        "icon": "fas fa-network-wired",
+        "date": "2024-10",
+        "category": "Networking",
+        "featured": false
     },
     {
         "title": "Goldman Sachs - Software Engineering Job Simulation",
         "organization": "Forage",
-        "icon": "fas fa-briefcase"
+        "icon": "fas fa-briefcase",
+        "date": "2024-09",
+        "category": "Software Engineering",
+        "featured": false
     },
     {
         "title": "Mastercard - Cybersecurity Job Simulation",
         "organization": "Forage",
-        "icon": "fas fa-briefcase"
+        "icon": "fas fa-briefcase",
+        "date": "2024-08",
+        "category": "Cybersecurity",
+        "featured": false
     },
     {
-        "title": "Full Stack Development",
-        "organization": "NoviTech R&D Pvt Ltd",
-        "icon": "fas fa-cogs"
+        "title": "OPSWAT Introduction to Critical Infrastructure Protection (ICIP)",
+        "organization": "OPSWAT",
+        "icon": "fas fa-shield-alt",
+        "date": "2024-07",
+        "category": "Cybersecurity",
+        "featured": false
     },
     {
-        "title": "Internet of Things",
-        "organization": "NoviTech R&D Pvt Ltd",
-        "icon": "fas fa-plug"
-    },
-    {
-        "title": "Blockchain",
-        "organization": "NoviTech R&D Pvt Ltd",
-        "icon": "fas fa-cogs"
-    },
-    {
-        "title": "Ethical Hacking: Hack Android",
-        "organization": "Udemy",
-        "icon": "fas fa-lock"
-    },
-    {
-        "title": "Artificial Intelligence",
-        "organization": "NoviTech R&D Pvt Ltd",
-        "icon": "fas fa-brain"
+        "title": "Certificate of Participation in Felicity '25 Hackathon",
+        "organization": "Unstop",
+        "icon": "fas fa-trophy",
+        "date": "2024-06",
+        "category": "Competition",
+        "featured": false
     },
     {
         "title": "Guvi certified in Python",
         "organization": "GUVI Geek Networks, IITM Research Park",
-        "icon": "fab fa-python"
+        "icon": "fab fa-python",
+        "date": "2024-05",
+        "category": "Programming",
+        "featured": false
+    },
+    {
+        "title": "Full Stack Development",
+        "organization": "NoviTech R&D Pvt Ltd",
+        "icon": "fas fa-cogs",
+        "date": "2024-04",
+        "category": "Web Development",
+        "featured": false
+    },
+    {
+        "title": "Artificial Intelligence",
+        "organization": "NoviTech R&D Pvt Ltd",
+        "icon": "fas fa-brain",
+        "date": "2024-03",
+        "category": "AI/ML",
+        "featured": false
     },
     {
         "title": "Cybersecurity",
         "organization": "NoviTech R&D Pvt Ltd",
-        "icon": "fas fa-shield-alt"
+        "icon": "fas fa-shield-alt",
+        "date": "2024-02",
+        "category": "Cybersecurity",
+        "featured": false
+    },
+    {
+        "title": "Internet of Things",
+        "organization": "NoviTech R&D Pvt Ltd",
+        "icon": "fas fa-plug",
+        "date": "2024-01",
+        "category": "IoT",
+        "featured": false
+    },
+    {
+        "title": "Blockchain",
+        "organization": "NoviTech R&D Pvt Ltd",
+        "icon": "fas fa-cogs",
+        "date": "2023-12",
+        "category": "Blockchain",
+        "featured": false
+    },
+    {
+        "title": "Ethical Hacking: Hack Android",
+        "organization": "Udemy",
+        "icon": "fas fa-lock",
+        "date": "2023-11",
+        "category": "Cybersecurity",
+        "featured": false
+    },
+    {
+        "title": "Introduction to CIP",
+        "organization": "OPSWAT Academy",
+        "icon": "fas fa-shield-alt",
+        "date": "2023-10",
+        "category": "Cybersecurity",
+        "featured": false
     }
 ]

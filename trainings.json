@@ -1,83 +1,136 @@
 [
     {
-        "title": "Cappriciosec University",
-        "icon": "fas fa-wifi",
-        "companies": [
-            "WiFi Pentesting - Cappriciosec University",
-            "API Pentesting - Cappriciosec University",
-             "Social Engineering & Ethical Hacking"
-        ]
-    },
-    {
-        "title": "Forage Cybersecurity Job Simulator",
-        "icon": "fas fa-certificate",
-        "companies": [
-            "MasterCard",
-            "Telestra",
-            "goldman Sachs"
-        ]
-    },
-    {
-        "title": "AWS Educate - Getting Started with Security",
-        "icon": "fab fa-aws",
-        "companies": [
-            "Specialized training in AWS IAM and security services"
-        ]
-    },
-    {
         "title": "TryHackMe Security Paths",
         "icon": "fas fa-shield-alt",
-        "companies": [
-            "Jr Penetration Tester",
-            "Web Fundamentals"
+        "category": "Cybersecurity",
+        "date": "2024-12",
+        "duration": "Ongoing",
+        "courses": [
+            "Jr Penetration Tester Path",
+            "Web Fundamentals Path",
             "Advent of Cyber 2024",
-            "Advent of Cyber 2023"
+            "Advent of Cyber 2023",
             "Advent of Cyber 2022",
             "Advent of Cyber 2019"
-            
-        ]
+        ],
+        "featured": true
     },
     {
-        "title": "Microsoft Learn Security",
-        "icon": "fab fa-microsoft",
-        "companies": [
-            "Linux command line and Shell",
-            "Introduction to GitHub"
-        ]
-    },
-    {
-        "title": "SimpliLearn Training",
-        "icon": "fas fa-laptop-code",
-        "companies": [
-            "CCNA 200-301"
-        ]
-    },
-    {
-        "title": "Udemy Security Courses",
-        "icon": "fas fa-graduation-cap",
-        "companies": [
-            "Complete Ethical Hacking Bootcamp",
-            "Complete Ethical Hacking Course With ParrotOS 2022"
-        ]
-    },
-    {
-        "title": "Great Learning Courses",
-        "icon": "fas fa-graduation-cap",
-        "companies": [
-            "Introduction to Ethical Hacking ",
-            "Introduction to Cybersecurity"
-        ]
+        "title": "Forage Job Simulations",
+        "icon": "fas fa-certificate",
+        "category": "Professional Development",
+        "date": "2024-11",
+        "duration": "3 months",
+        "courses": [
+            "MasterCard Cybersecurity Job Simulation",
+            "Telstra Cybersecurity Job Simulation",
+            "Goldman Sachs Software Engineering Job Simulation"
+        ],
+        "featured": true
     },
     {
         "title": "Novi Tech R&D Pvt Ltd",
         "icon": "fas fa-cogs",
-        "companies": [
-            "BlockChain Development",
+        "category": "Technology Training",
+        "date": "2024-10",
+        "duration": "6 months",
+        "courses": [
+            "Blockchain Development",
             "Full Stack Development",
-            "Internet of Things",
+            "Internet of Things (IoT)",
             "Artificial Intelligence",
-            "Cyber security"
-        ]
+            "Cybersecurity"
+        ],
+        "featured": true
+    },
+    {
+        "title": "Cappriciosec University",
+        "icon": "fas fa-wifi",
+        "category": "Cybersecurity",
+        "date": "2024-09",
+        "duration": "2 months",
+        "courses": [
+            "WiFi Pentesting - Advanced Techniques",
+            "API Pentesting - Security Assessment",
+            "Social Engineering & Ethical Hacking"
+        ],
+        "featured": false
+    },
+    {
+        "title": "AWS Educate - Security Training",
+        "icon": "fab fa-aws",
+        "category": "Cloud Security",
+        "date": "2024-08",
+        "duration": "1 month",
+        "courses": [
+            "AWS IAM and Security Services",
+            "Cloud Security Fundamentals",
+            "AWS Security Best Practices"
+        ],
+        "featured": false
+    },
+    {
+        "title": "Microsoft Learn Security",
+        "icon": "fab fa-microsoft",
+        "category": "Cloud & Development",
+        "date": "2024-07",
+        "duration": "1 month",
+        "courses": [
+            "Linux Command Line and Shell",
+            "Introduction to GitHub",
+            "Azure Security Fundamentals"
+        ],
+        "featured": false
+    },
+    {
+        "title": "SimpliLearn Training",
+        "icon": "fas fa-laptop-code",
+        "category": "Networking",
+        "date": "2024-06",
+        "duration": "2 months",
+        "courses": [
+            "CCNA 200-301 Network Fundamentals",
+            "Cybersecurity Fundamentals"
+        ],
+        "featured": false
+    },
+    {
+        "title": "Udemy Security Courses",
+        "icon": "fas fa-graduation-cap",
+        "category": "Cybersecurity",
+        "date": "2024-05",
+        "duration": "3 months",
+        "courses": [
+            "Complete Ethical Hacking Bootcamp",
+            "Complete Ethical Hacking Course With ParrotOS 2022",
+            "Ethical Hacking: Hack Android"
+        ],
+        "featured": false
+    },
+    {
+        "title": "Great Learning Courses",
+        "icon": "fas fa-graduation-cap",
+        "category": "Cybersecurity",
+        "date": "2024-04",
+        "duration": "1 month",
+        "courses": [
+            "Introduction to Ethical Hacking",
+            "Introduction to Cybersecurity",
+            "Network Security Fundamentals"
+        ],
+        "featured": false
+    },
+    {
+        "title": "GUVI Geek Networks",
+        "icon": "fab fa-python",
+        "category": "Programming",
+        "date": "2024-03",
+        "duration": "2 months",
+        "courses": [
+            "Python Programming Certification",
+            "Data Structures and Algorithms"
+        ],
+        "featured": false
     }
 ]
 

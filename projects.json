@@ -2,127 +2,319 @@
   {
     "name": "Vaulto",
     "description": "A zero-knowledge, secure password manager built with client-side encryption, biometric authentication, and PWA/browser extension support. Designed for enterprise-grade security with a consumer-friendly experience.",
-    "technologies": ["React", "TypeScript", "PWA", "Cybersecurity"],
+    "technologies": [
+      "React",
+      "TypeScript",
+      "PWA",
+      "Cybersecurity",
+      "Encryption"
+    ],
+    "category": "Cybersecurity",
     "githubLink": "https://github.com/letchupkt/vaulto",
-    "externalLink": "https://vaulto.vgrow.tech"
+    "externalLink": "https://vaulto.vgrow.tech",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-12-01",
+    "status": "Completed",
+    "featured": true
   },
   {
     "name": "FlowPilotAI",
     "description": "An AI-powered workflow automation platform that integrates with APIs, SaaS tools, and custom scripts to build intelligent, no-code workflows. Designed to boost productivity and streamline complex processes.",
-    "technologies": ["React", "Node.js", "AI", "Automation", "API"],
-    "githubLink": "",
-    "externalLink": "https://flowpilotai.vercel.app"
+    "technologies": [
+      "React",
+      "Node.js",
+      "AI",
+      "Automation",
+      "API",
+      "Machine Learning"
+    ],
+    "category": "AI/ML",
+    "githubLink": "https://github.com/letchupkt/flowpilotai",
+    "externalLink": "https://flowpilotai.vercel.app",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-11-15",
+    "status": "Completed",
+    "featured": true
   },
   {
     "name": "WebRaptor",
     "description": "Automated bug bounty and recon tool that integrates Nmap, Nuclei, Amass, Subzy, and more. Features a shell-like interface and vulnerability detection system for full-scope scanning.",
-    "technologies": ["Python", "Cybersecurity", "Automation", "CLI"],
+    "technologies": [
+      "Python",
+      "Cybersecurity",
+      "Automation",
+      "CLI",
+      "Nmap",
+      "Nuclei"
+    ],
+    "category": "Cybersecurity",
     "githubLink": "https://github.com/letchupkt/webraptor",
-    "externalLink": ""
+    "externalLink": "https://github.com/letchupkt/webraptor",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-10-20",
+    "status": "Completed",
+    "featured": true
   },
   {
     "name": "Site Security Inspector",
     "description": "A real-time vulnerability and technology scanner for any website. Analyze security headers, detect CMS/frameworks, and track exposed endpoints with detailed insights.",
-    "technologies": ["Python", "Web Security", "Recon", "CLI"],
-    "githubLink": "",
-    "externalLink": "https://ssi.vgrow.tech"
+    "technologies": [
+      "Python",
+      "Web Security",
+      "Recon",
+      "CLI",
+      "Flask"
+    ],
+    "category": "Cybersecurity",
+    "githubLink": "https://github.com/letchupkt/site-security-inspector",
+    "externalLink": "https://ssi.vgrow.tech",
+    "image": "https://images.unsplash.com/photo-1563206767-5b18f218e8de?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-09-25",
+    "status": "Completed",
+    "featured": true
   },
   {
     "name": "CyberRecon Arsenal",
     "description": "Advanced open-source reconnaissance toolkit for ethical hackers, OSINT researchers, and cybersecurity analysts.",
-    "technologies": ["JavaScript", "Vite", "React", "Cybersecurity", "OSINT"],
-    "githubLink": "",
-    "externalLink": "https://cyberreconarsenal.vgrow.tech"
+    "technologies": [
+      "JavaScript",
+      "Vite",
+      "React",
+      "Cybersecurity",
+      "OSINT"
+    ],
+    "category": "Cybersecurity",
+    "githubLink": "https://github.com/letchupkt/cyberrecon-arsenal",
+    "externalLink": "https://cyberreconarsenal.vgrow.tech",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-08-30",
+    "status": "Completed",
+    "featured": true
   },
   {
-    "name": "SRCE COLLEGE WEBSITE",
+    "name": "SRCE College Website",
     "description": "Developed the official website for SRCE College, providing a central hub for information about academics, admissions, faculty, events, and college life.",
-    "technologies": ["React", "JavaScript", "HTML", "CSS"],
+    "technologies": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Responsive Design"
+    ],
+    "category": "Web Development",
     "githubLink": "https://github.com/letchupkt/SRCE-college-web",
-    "externalLink": "https://srcebyletchu.netlify.app"
-  },
-  {
-    "name": "Sophish",
-    "description": "A social engineering tool for phishing attacks with payload generation and social engineering techniques.",
-    "technologies": ["Python", "Social Engineering", "Networking"],
-    "githubLink": "https://github.com/letchupkt/sophish",
-    "externalLink": ""
-  },
-  {
-    "name": "CamHunt",
-    "description": "A tool to perform camera reconnaissance and find devices in a network.",
-    "technologies": ["Python", "Networking", "Reconnaissance"],
-    "githubLink": "https://github.com/letchupkt/Camhunt",
-    "externalLink": ""
-  },
-  {
-    "name": "LETCHU SCRIPTOR",
-    "description": "Convert DuckyScript to Keyboard Scripts.",
-    "technologies": ["JavaScript", "Web Development"],
-    "githubLink": "https://github.com/letchupkt/letchuscriptor",
-    "externalLink": "https://letchuscriptor.netlify.app"
-  },
-  {
-    "name": "NetSuck WebFlasher",
-    "description": "A web based tool to upload My Firmware to ESP boards.",
-    "technologies": ["HTML", "JavaScript","React", "ESP32", "Web Development"],
-    "githubLink": "",
-    "externalLink": "https://netsuck.vgrow.tech"
+    "externalLink": "https://srcebyletchu.netlify.app",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-07-15",
+    "status": "Completed",
+    "featured": true
   },
   {
     "name": "RepoShield",
     "description": "AI-powered GitHub Repository Security & Code Quality Scanner. RepoShield helps developers keep their repositories secure, clean, and production-ready with automated security analysis and code insights.",
-    "technologies": ["Python", "AI", "Cybersecurity", "GitHub API"],
+    "technologies": [
+      "Python",
+      "AI",
+      "Cybersecurity",
+      "GitHub API",
+      "Machine Learning"
+    ],
+    "category": "AI/ML",
     "githubLink": "https://github.com/letchupkt/reposhield",
-    "externalLink": ""
+    "externalLink": "https://github.com/letchupkt/reposhield",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-06-20",
+    "status": "Completed",
+    "featured": true
   },
   {
     "name": "Legal Contract Analysis Bot",
     "description": "An AI-powered web application that helps small business owners in India understand complex legal contracts through automated analysis, risk assessment, and plain-language explanations.",
-    "technologies": ["Python", "Flask", "AI", "NLP", "LegalTech"],
+    "technologies": [
+      "Python",
+      "Flask",
+      "AI",
+      "NLP",
+      "LegalTech",
+      "Machine Learning"
+    ],
+    "category": "AI/ML",
     "githubLink": "https://github.com/letchupkt/Legal-Contract-Analysis-Bot",
-    "externalLink": ""
+    "externalLink": "https://github.com/letchupkt/Legal-Contract-Analysis-Bot",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-05-10",
+    "status": "Completed",
+    "featured": true
+  },
+  {
+    "name": "NetSuck WebFlasher",
+    "description": "A web based tool to upload My Firmware to ESP boards.",
+    "technologies": [
+      "HTML",
+      "JavaScript",
+      "React",
+      "ESP32",
+      "Web Development",
+      "IoT"
+    ],
+    "category": "IoT",
+    "githubLink": "https://github.com/letchupkt/netsuck-webflasher",
+    "externalLink": "https://netsuck.vgrow.tech",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-04-25",
+    "status": "Completed",
+    "featured": true
+  },
+  {
+    "name": "Sophish",
+    "description": "A social engineering tool for phishing attacks with payload generation and social engineering techniques.",
+    "technologies": [
+      "Python",
+      "Social Engineering",
+      "Networking",
+      "Cybersecurity"
+    ],
+    "category": "Cybersecurity",
+    "githubLink": "https://github.com/letchupkt/sophish",
+    "externalLink": "https://github.com/letchupkt/sophish",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-03-15",
+    "status": "Completed",
+    "featured": true
+  },
+  {
+    "name": "CamHunt",
+    "description": "A tool to perform camera reconnaissance and find devices in a network.",
+    "technologies": [
+      "Python",
+      "Networking",
+      "Reconnaissance",
+      "Cybersecurity"
+    ],
+    "category": "Cybersecurity",
+    "githubLink": "https://github.com/letchupkt/Camhunt",
+    "externalLink": "https://github.com/letchupkt/Camhunt",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-02-20",
+    "status": "Completed",
+    "featured": true
+  },
+  {
+    "name": "LETCHU SCRIPTOR",
+    "description": "Convert DuckyScript to Keyboard Scripts.",
+    "technologies": [
+      "JavaScript",
+      "Web Development",
+      "HTML",
+      "CSS"
+    ],
+    "category": "Web Development",
+    "githubLink": "https://github.com/letchupkt/letchuscriptor",
+    "externalLink": "https://letchuscriptor.netlify.app",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-01-30",
+    "status": "Completed",
+    "featured": true
   },
   {
     "name": "Wi-Fi Bruter",
     "description": "A Python-based software to perform dictionary attack on Wi-Fi.",
-    "technologies": ["Python", "Networking", "Security"],
+    "technologies": [
+      "Python",
+      "Networking",
+      "Security",
+      "Cybersecurity"
+    ],
+    "category": "Cybersecurity",
     "githubLink": "https://github.com/letchupkt/wifi-bruter",
-    "externalLink": ""
+    "externalLink": "https://github.com/letchupkt/wifi-bruter",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2023-12-10",
+    "status": "Completed",
+    "featured": true
   },
   {
     "name": "L3TCHU S3T-TOOL KIT",
     "description": "A Web Based social engineering tool.",
-    "technologies": ["Web Development", "JavaScript"],
+    "technologies": [
+      "Web Development",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "category": "Cybersecurity",
     "githubLink": "https://github.com/letchupkt/LETCHU-SET",
-    "externalLink": ""
+    "externalLink": "https://github.com/letchupkt/LETCHU-SET",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2023-11-15",
+    "status": "Completed",
+    "featured": true
   },
   {
-    "name": "IP tracker",
+    "name": "IP Tracker",
     "description": "IP tracking software built using Python.",
-    "technologies": ["Python", "Networking"],
+    "technologies": [
+      "Python",
+      "Networking",
+      "CLI"
+    ],
+    "category": "Cybersecurity",
     "githubLink": "https://github.com/letchupkt/iptracker",
-    "externalLink": ""
+    "externalLink": "https://github.com/letchupkt/iptracker",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2023-10-20",
+    "status": "Completed",
+    "featured": true
   },
   {
     "name": "Bg Remover",
     "description": "A Web-Based background remover made using Python.",
-    "technologies": ["Python", "Web Development"],
+    "technologies": [
+      "Python",
+      "Web Development",
+      "AI",
+      "Image Processing"
+    ],
+    "category": "AI/ML",
     "githubLink": "https://github.com/letchupkt/Bgremover-python",
-    "externalLink": "https://bgremoverbyletchu.netlify.app"
+    "externalLink": "https://bgremoverbyletchu.netlify.app",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2023-09-25",
+    "status": "Completed",
+    "featured": true
   },
   {
-    "name": "Web Builder website",
+    "name": "Web Builder Website",
     "description": "A website to build static websites.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development"
+    ],
+    "category": "Web Development",
     "githubLink": "https://github.com/letchupkt/webbuilder",
-    "externalLink": "https://webbuilderbyletchu.netlify.app"
+    "externalLink": "https://webbuilderbyletchu.netlify.app",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2023-08-30",
+    "status": "Completed",
+    "featured": true
   },
   {
     "name": "Link List",
     "description": "A Web Based Link List site like link tree.",
-    "technologies": ["HTML", "CSS", "JavaScript"],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development"
+    ],
+    "category": "Web Development",
     "githubLink": "https://github.com/letchupkt/linklist",
-    "externalLink": "https://linklistbyletchu.netlify.app"
+    "externalLink": "https://linklistbyletchu.netlify.app",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2023-07-15",
+    "status": "Completed",
+    "featured": true
   }
 ]

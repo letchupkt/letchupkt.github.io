@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LakshmiKanthan | Blog</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="keywords" content="letchu_pkt, medium articles, tech blog, AI, ethical hacking, ML, letchu, letchu pkt, lakshmikanthank, lakshmikanthan">
+    <meta name="description" content="Read my latest Medium articles on AI, ML, cybersecurity, and technology. Stay updated with my thoughts and insights.">
+    <link id='favicon' rel="shortcut icon" href="/letchu.jpg" type="image/x-png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Navigation -->
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">
+                    <a href="index.html"><span>&lt;</span> LAKSHMIKANTHAN K <span>/&gt;</span></a>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.html#about">About</a></li>
+                    <li><a href="index.html#skills">Skills</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="index.html#experience">Experience</a></li>
+                    <li><a href="index.html#education">Education</a></li>
+                    <li><a href="index.html#certifications">Certifications</a></li>
+                    <li><a href="blog.html" class="active">Blog</a></li>
+                    <li><a href="index.html#contact">Contact</a></li>
+                </ul>
+                <div class="hamburger">
+                    <div class="line"></div>
+                    <div class="line"></div>
+                    <div class="line"></div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Articles Hero Section -->
+    <section class="articles-hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>My Blog</h1>
+                <p>Exploring AI, cybersecurity, and technology through writing. Stay updated with my latest thoughts and insights.</p>
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <span class="stat-number" id="total-articles">0</span>
+                        <span class="stat-label">Articles</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number" id="total-claps">0</span>
+                        <span class="stat-label">Total Claps</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Search and Filter Section -->
+    <section class="articles-controls">
+        <div class="container">
+            <div class="controls-wrapper">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="search-input" placeholder="Search articles...">
+                </div>
+                <div class="filter-controls">
+                    <select id="category-filter">
+                        <option value="">All Categories</option>
+                        <option value="AI">Artificial Intelligence</option>
+                        <option value="ML">Machine Learning</option>
+                        <option value="Cybersecurity">Cybersecurity</option>
+                        <option value="Web Development">Web Development</option>
+                        <option value="IoT">Internet of Things</option>
+                        <option value="Technology">Technology</option>
+                        <option value="Ethical Hacking">Ethical Hacking</option>
+                    </select>
+                    <select id="sort-filter">
+                        <option value="newest">Newest First</option>
+                        <option value="oldest">Oldest First</option>
+                        <option value="popular">Most Popular</option>
+                    </select>
+                    <button id="refresh-btn" class="refresh-btn" title="Refresh Articles">
+                        <i class="fas fa-sync-alt"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Articles Section -->
+    <section id="articles" class="articles">
+        <div class="container">
+            <div class="loading-spinner" id="loading-spinner">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>Loading articles...</p>
+            </div>
+            <div class="articles-grid" id="articles-grid">
+                <!-- Dynamic article cards will be inserted here -->
+            </div>
+            <div class="no-results" id="no-results" style="display: none;">
+                <i class="fas fa-search"></i>
+                <h3>No articles found</h3>
+                <p>Try adjusting your search or filter criteria.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-social">
+                    <a href="https://www.linkedin.com/in/lakshmikanthank/" target="_blank" title="LinkedIn">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                    <a href="https://github.com/letchupkt" target="_blank" title="GitHub">
+                        <i class="fab fa-github"></i>
+                    </a>
+                    <a href="https://medium.com/@letchupkt" target="_blank" title="Medium">
+                        <i class="fab fa-medium"></i>
+                    </a>
+                    <a href="https://tryhackme.com/p/letchupkt" target="_blank" title="TryHackMe">
+                        <i class="fas fa-shield-alt"></i>
+                    </a>
+                    <a href="https://instagram.com/letchu_pkt" target="_blank" title="Instagram">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </div>
+                <p>&copy; 2025 LakshmiKanthan K. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Theme toggle -->
+    <div class="theme-toggle">
+        <i class="fas fa-moon"></i>
+        <i class="fas fa-sun"></i>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="articles.js"></script>
+</body>
+</html>
