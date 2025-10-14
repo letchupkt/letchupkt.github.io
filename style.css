@@ -1499,12 +1499,12 @@ footer {
 
 /* Articles Hero Section */
 .articles-hero {
-    min-height: 25vh;
+    min-height: 15vh;
     display: flex;
     align-items: center;
     padding-top: 70px;
     padding-bottom: var(--spacing-s);
-    background: radial-gradient(circle at 30% 40%, rgba(0, 238, 255, 0.1) 0%, rgba(0, 0, 0, 1) 70%);
+    background-color: var(--primary-dark);
     position: relative;
     text-align: center;
 }
@@ -1900,7 +1900,7 @@ footer {
 /* Responsive Design for Articles */
 @media (max-width: 768px) {
     .articles-hero {
-        min-height: 20vh;
+        min-height: 12vh;
         padding-top: 60px;
         padding-bottom: var(--spacing-xs);
     }
@@ -2601,12 +2601,12 @@ a:focus {
 
 /* Projects Hero Section */
 .projects-hero {
-    min-height: 25vh;
+    min-height: 15vh;
     display: flex;
     align-items: center;
     padding-top: 70px;
     padding-bottom: var(--spacing-s);
-    background: radial-gradient(circle at 50% 30%, rgba(0, 238, 255, 0.1) 0%, rgba(0, 0, 0, 1) 70%);
+    background-color: var(--primary-dark);
     position: relative;
     text-align: center;
 }
@@ -2820,7 +2820,7 @@ a:focus {
     }
 
     .projects-hero {
-        min-height: 20vh;
+        min-height: 12vh;
         padding-top: 60px;
     }
 

@@ -1,5 +1,45 @@
 [
   {
+    "name": "NetSuck8266",
+    "description": "Advanced ESP8266 firmware for Wi-Fi security testing and penetration testing. Features deauth attacks, evil twin AP, beacon spam, wardriving, and mechanical key cloning capabilities with OLED interface.",
+    "technologies": [
+      "C++",
+      "ESP8266",
+      "IoT",
+      "Wi-Fi Security",
+      "Penetration Testing",
+      "Hardware"
+    ],
+    "category": "IoT Hardware",
+    "githubLink": "https://github.com/letchupkt/NetSuck8266",
+    "externalLink": "https://netsuck.vgrow.tech",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2024-12-15",
+    "status": "Completed",
+    "featured": true,
+    "features": [
+      "Wi-Fi Deauth: Target, All, or Dissociate modes for disconnection attacks",
+      "Beacon & Probe Spam: Generate fake beacons or probe requests",
+      "Evil Twin: Create rogue AP with captive portal templates",
+      "Mech Key Cloner: Capture mechanical key cuts for traditional Indian keys",
+      "Wi-Fi AP Tracker: Scan nearby APs with SSID, RSSI, channel info",
+      "Deauth Detector: Monitor air for deauth frames with alerts",
+      "Wi-Fi Wardriving (v3.0): GPS/timestamped scanning with CSV/JSON export",
+      "Menu UI on 1.3\" OLED (SH1106/SSD1306) with Up/Down/Select controls",
+      "LittleFS Logging: Store credentials, wardrive logs, and session data"
+    ],
+    "webFlasher": {
+      "url": "https://netsuck.vgrow.tech",
+      "description": "Cross-platform web flasher for easy firmware installation without local tools",
+      "features": [
+        "Works on Windows, macOS, Linux (Chromium-based browsers)",
+        "No local flash tools needed - no esptool setup or driver issues",
+        "Faster onboarding for non-technical users",
+        "Automatic device reboot after successful flash"
+      ]
+    }
+  },
+  {
     "name": "Vaulto",
     "description": "A zero-knowledge, secure password manager built with client-side encryption, biometric authentication, and PWA/browser extension support. Designed for enterprise-grade security with a consumer-friendly experience.",
     "technologies": [
