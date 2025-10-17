@@ -134,5 +134,59 @@
         "date": "2023-10",
         "category": "Cybersecurity",
         "featured": false
+    },
+    {
+        "title": "ISC2 Candidate",
+        "organization": "ISC2",
+        "icon": "fas fa-shield-alt",
+        "date": "2025-10",
+        "category": "Cybersecurity",
+        "featured": false,
+        "expires": "2026-10"
+    },
+    {
+        "title": "Certified Software Engineer",
+        "organization": "HackerRank",
+        "icon": "fas fa-laptop-code",
+        "date": "2025-09",
+        "category": "Software Engineering",
+        "featured": false,
+        "credential_id": "1922e1a1e377"
+    },
+    {
+        "title": "Oracle Database 11g: Advanced PL/SQL",
+        "organization": "HackerRank",
+        "icon": "fas fa-database",
+        "date": "2025-09",
+        "category": "Database",
+        "featured": false,
+        "credential_id": "907097503ad9"
+    },
+    {
+        "title": "Participant certificate",
+        "organization": "United Latino Students Association",
+        "icon": "fas fa-user-graduate",
+        "date": "2025-09",
+        "category": "Participation",
+        "featured": false,
+        "credential_id": "3e11e76e-bef8-42e6-808a-65a222fc911f"
+    },
+    {
+        "title": "Security Analyst Certificate Programme",
+        "organization": "RF Skilling Academy",
+        "icon": "fas fa-shield-alt",
+        "date": "2025-09",
+        "category": "Cybersecurity",
+        "featured": false,
+        "credential_id": "RFSA000296713"
+    },
+    {
+        "title": "Software Engineer Intern",
+        "organization": "HackerRank",
+        "icon": "fas fa-briefcase",
+        "date": "2025-09",
+        "category": "Software Engineering",
+        "featured": false,
+        "credential_id": "456e92109a08"
     }
 ]
