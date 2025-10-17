@@ -114,6 +114,24 @@
     "featured": true
   },
   {
+    "name": "ReconForge",
+    "description": "ReconForge is a comprehensive, web-based bug hunting and penetration testing toolkit designed for security researchers, ethical hackers, and cybersecurity professionals.",
+    "technologies": [
+      "JavaScript",
+      "Css",
+      "Html",
+      "Cybersecurity",
+      "OSINT"
+    ],
+    "category": "Cybersecurity",
+    "githubLink": "https://github.com/letchupkt/ReconForge-ToolKit",
+    "externalLink": "https://reconforge.vgrow.tech",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop&auto=format",
+    "createdDate": "2025-10-20",
+    "status": "Completed",
+    "featured": true
+  },
+  {
     "name": "CyberRecon Arsenal",
     "description": "Advanced open-source reconnaissance toolkit for ethical hackers, OSINT researchers, and cybersecurity analysts.",
     "technologies": [
@@ -357,4 +375,5 @@
     "status": "Completed",
     "featured": true
   }
+
 ]
